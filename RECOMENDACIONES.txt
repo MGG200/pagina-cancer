@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bienvenido a este sitio web </title>
+</head>
+<body background="C:\Users\MIGUE\OneDrive\Escritorio\PAGINA WED CANCER\fondo.jpg">
+<!--ESTE CODIGO ES PARA LA MARQUESINA DESPLAZANDOSE-->
+<font face="IMPACT" color="#FF7F00" size="40">
+<marquee bgcolor="blue">No es una guerra contra el cancer. Es un recorrido a favor de la salud</marquee>
+</font>
+<!--ESTE CODIGO ES PARA EL COLOR DE FONDO DE LA PAGINA-->
+
+<!--ESTE CODIGO ES PARA EL TITULO DE LA PAGINA-->
+<center><p style="font-size:100px;color:"white"="">EL CANCER</p></center>
+<!--ESTE CODIGO ES PARA LA LINEA-->
+<hr align="CENTER" size="2" width="80%" color="#FF0000" noshade="">
+<br>
+<style> #tabs5 img { border: none; } #tabs5 { float:left; width:100%; background:#0000FF; font: bold 9pt Verdana; line-height:normal; } #tabs5 ul { margin:0; padding:10px 10px 0 50px; liststyle:none; } #tabs5 li { display:inline; margin:0; padding:0; } #tabs5 a { float:left; background:url(http://1.bp.blogspot.com/_7wsQzULWIwo/SzupihZsRI/AAAAAAAACuM/M_WqlslWGI0/s1600/tableft5.gif) no-repeat left top; margin:0; padding:0 0 0 4px; text-decoration:none; } #tabs5 a span { float:left; display:block; background:url(http://3.bp.blogspot.com/_7wsQzULWIwo/SzuppvYxHI/AAAAAAAACuQ/aL8WsHpvlSo/s1600/tabright5.gif) no-repeat right top; padding:5px 15px 4px 6px; color:#FFF; } / #tabs5 a span {float:none;} /* End IE5-Mac hack */ #tabs5 a:hover span { color:#FFF; } #tabs5 a:hover { background-position:0% -42px; } #tabs5 a:hover span { background-position:100%
+ -42px; } #tabs5 #current a { background-position:0% -42px; } #tabs5 #current a span { background-position:100% -42px; } </style> <div id="tabs5"> 
+<ul> <li><a href="INICIO.html"><span>INICIO</span></a></li> 
+<li><a href="EL CANCER.html"><span>EL CANCER</span></a></li>
+<li><a href="TIPOS DE CANCER.html"><span>TIPOS DE CANCER</span></a></li>
+<li><a href="RECOMENDACIONES.html"><span>RECOMENDACIONES</span></a></li>
+<li><a href="CONTACTANOS.html"><span>CONTACTANOS</span></a></li></ul> </div> 
+<title>RECOMENDACIONES PARA PREVENIR EL CANCER</title>
+
+<br>
+<br>
+<br>
+<br>
+<center>
+<embed src="C:\Users\MIGUE\OneDrive\Escritorio\PAGINA WED CANCER\Música de Fondo Para Videos _ Música Cinematográfi(MP3_160K).mp3" autostart"true" loop="1" width="450" heigt="60">
+</center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<b>
+<br>
+
+
+<!--ESTE CODIGO ES PARA EL TEXTO-->
+
+<center><p style="font-size:40px;color:"white"="">Recomendaciones para prevenir el cancer</p></center>
+
+
+<ul >
+<li> No consumas tabaco
+<ol>
+<li>Evitar el tabaco, o decidir dejar de usarlo, es una parte importante de la prevención del cáncer. Si necesitas ayuda para dejar de fumar, pregunta a tu médico sobre los productos y otras estrategias para dejar de fumar.
+</ol>
+<br>
+<li>Lleva una dieta saludable
+<ol>
+<li>Consume muchas frutas y vegetales. Basa tu dieta en frutas, verduras y otros alimentos de origen vegetal, como granos integrales y frijoles.
+<li>Evita la obesidad. Come más ligero y magro eligiendo menos alimentos ricos en calorías, como los azúcares refinados y las grasas de origen animal.
+<li>Si eliges beber alcohol, hazlo solo con moderación. El riesgo de desarrollar varios tipos de cáncer, incluyendo el cáncer de mama, colon, pulmón, riñón e hígado, aumenta con la cantidad de alcohol que bebes y la cantidad de tiempo que has estado bebiendo habitualmente.
+<li>Limita las carnes procesadas. Un informe de la International Agency for Research on Cancer (Agencia Internacional para la Investigación del Cáncer), la agencia contra el cáncer de la Organización Mundial de la Salud, concluyó que comer grandes cantidades de carne procesada puede aumentar ligeramente el riesgo de desarrollar ciertos tipos de cáncer.
+</ol>
+<br>
+<li>Mantén un peso saludable y haz actividad física
+<ol>
+<li>Mantener un peso saludable podría reducir el riesgo de desarrollar varios tipos de cáncer, incluido el cáncer de mama, próstata, pulmón, colon y riñón.
+<li>La actividad física también cuenta. Además de ayudarte a controlar tu peso, la actividad física por sí sola podría reducir el riesgo de desarrollar cáncer de mama y de colon.
+</ol>
+<br>
+<center><img src="Prevencion-Cancer.png" width="700" height="450" border="6" vspace="3" hspace="3&quot;"></center>
+<br>
+<li>Protégete del sol
+<ol>
+<li>Evita el sol del mediodía. Mantente alejado del sol entre las 10 a. m. y las 4 p. m., cuando los rayos del sol son más fuertes.
+<li>Quédate en la sombra. Cuando estés al aire libre, permanece en la sombra tanto como sea posible. Las gafas de sol y un sombrero de ala ancha también ayudan.
+<li>Cúbrete las áreas expuestas. Usa ropa holgada y de tejidos cerrados que cubra la mayor parte posible de tu piel. Opta por colores brillantes u oscuros, que reflejan más la radiación ultravioleta que los colores pasteles o el algodón blanqueado.
+<li>No escatimes en protector solar. Usa un protector solar de amplio espectro con un FPS de al menos 30, incluso en días nublados. Colócate abundante cantidad de protector solar, y vuelve a aplicarlo cada dos horas o con más frecuencia si estás nadando o transpirando.
+<li>Evita las camas solares y las lámparas solares. Estos son tan dañinos como la luz solar natural.
+</ol>
+<br>
+<li>Vacúnate
+<ol>
+<li>La hepatitis B. La hepatitis B puede aumentar el riesgo de desarrollar cáncer de hígado. La vacuna contra la hepatitis B se recomienda para ciertos adultos de alto riesgo, como los adultos que son sexualmente activos pero que no tienen una relación mutuamente monógama, las personas con infecciones de transmisión sexual, las personas que usan drogas intravenosas, los hombres que tienen relaciones sexuales con hombres y los trabajadores de la salud o de la seguridad pública que podrían estar expuestos a sangre o fluidos corporales infectados.
+<li>Virus del papiloma humano (VPH). El VPH es un virus de transmisión sexual que puede causar cáncer cervical y otros cánceres genitales, así como cánceres de células escamosas de la cabeza y el cuello. La vacuna contra el VPH se recomienda para niñas y niños de 11 y 12 años de edad. La Administración de Alimentos y Medicamentos (FDA) de los Estados Unidos aprobó recientemente el uso de la vacuna Gardasil 9 para hombres y mujeres de 9 a 45 años de edad.
+</ol>
+<br>
+<li>Evita comportamientos riesgosos
+<ol>
+<li>Mantén relaciones sexuales seguras. Limita el número de parejas sexuales y usa un condón cuando tengas relaciones sexuales. Mientras más parejas sexuales tengas en tu vida, es más probable que contraigas una infección de transmisión sexual, como el VIH o el VPH. Las personas que tienen VIH o SIDA tienen un mayor riesgo de contraer cáncer de ano, hígado y pulmón. El VPH se asocia con mayor frecuencia con el cáncer de cuello uterino, pero también podría aumentar el riesgo de contraer cáncer de ano, pene, garganta, vulva y vagina.
+<li>No compartas agujas. Compartir agujas con personas que usan drogas intravenosas puede contagiar el VIH, así como la hepatitis B y la hepatitis C, que pueden aumentar el riesgo de contraer cáncer de hígado. Si te preocupa el uso indebido de drogas o la adicción, busca ayuda profesional.
+</ol>
+<br>
+<li>Consigue atención médica regular
+<ol>
+<li>Los autoexámenes y exámenes regulares para varios tipos de cáncer, como el cáncer de piel, de colon, de cuello uterino y de mama, pueden aumentar tus probabilidades de descubrir el cáncer a tiempo, cuando el tratamiento tiene más probabilidades de ser exitoso. 
+<li>Pregúntale a tu médico cuál es el mejor programa de exámenes de detección de cáncer para ti.
+</ol>
+
+</ul>
+
+<br>
+
+<br>
+
+<br>
+<center><img src="reducir_riesgos_cancer.png" width="700" height="450" border="6" vspace="3" hspace="3&quot;"></center>
+
+</p>
+
+</body>
+</html>

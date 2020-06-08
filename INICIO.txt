@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bienvenido a este sitio web </title>
+</head>
+
+
+
+
+<body background= "C:\Users\MIGUE\OneDrive\Escritorio\PAGINA WED CANCER\fondo.jpg">
+<!--ESTE CODIGO ES PARA LA MARQUESINA DESPLAZANDOSE-->
+<font face="IMPACT" color="#FF7F00" size="40">
+<marquee bgcolor="blue">No es una guerra contra el cancer. Es un recorrido a favor de la salud</marquee>
+</font>
+<!--ESTE CODIGO ES PARA EL COLOR DE FONDO DE LA PAGINA-->
+
+<!--ESTE CODIGO ES PARA EL TITULO DE LA PAGINA-->
+<center><p style="font-size:100px;color:" #990000"="">EL CANCER</p></center>
+<!--ESTE CODIGO ES PARA LA LINEA-->
+<hr align="CENTER" size="2" width="80%" color="#FF0000" noshade="">
+<br>
+<style> #tabs5 img { border: none; } #tabs5 { float:left; width:100%; background:#0000FF; font: bold 9pt Verdana; line-height:normal; } #tabs5 ul { margin:0; padding:10px 10px 0 50px; liststyle:none; } #tabs5 li { display:inline; margin:0; padding:0; } #tabs5 a { float:left; background:url(http://1.bp.blogspot.com/_7wsQzULWIwo/SzupihZsRI/AAAAAAAACuM/M_WqlslWGI0/s1600/tableft5.gif) no-repeat left top; margin:0; padding:0 0 0 4px; text-decoration:none; } #tabs5 a span { float:left; display:block; background:url(http://3.bp.blogspot.com/_7wsQzULWIwo/SzuppvYxHI/AAAAAAAACuQ/aL8WsHpvlSo/s1600/tabright5.gif) no-repeat right top; padding:5px 15px 4px 6px; color:#FFF; } / #tabs5 a span {float:none;} /* End IE5-Mac hack */ #tabs5 a:hover span { color:#FFF; } #tabs5 a:hover { background-position:0% -42px; } #tabs5 a:hover span { background-position:100%
+ -42px; } #tabs5 #current a { background-position:0% -42px; } #tabs5 #current a span { background-position:100% -42px; } </style> <div id="tabs5"> 
+<ul> <li><a href="INICIO.html"><span>INICIO</span></a></li> 
+<li><a href="EL CANCER.html"><span>EL CANCER</span></a></li>
+<li><a href="TIPOS DE CANCER.html"><span>TIPOS DE CANCER</span></a></li>
+<li><a href="RECOMENDACIONES.html"><span>RECOMENDACIONES</span></a></li>
+<li><a href="CONTACTANOS.html"><span>CONTACTANOS</span></a></li></ul> </div> 
+
+<center>
+<br>
+<br>
+<br>
+<!--ESTE CODIGO ES PARA INSERTAR MUSICA-->
+<embed src="C:\Users\MIGUE\OneDrive\Escritorio\PAGINA WED CANCER\Música de Fondo Para Videos _ Música Cinematográfi(MP3_160K).mp3" autostart"true" loop="1" width="450" heigt="60">
+<br>
+<br>
+<br>
+<!--ESTE CODIGO ES PARA INSERTAR IMAGENE GIF-->	
+<img src="cancer12.gif" width="500" height="250" border="6" vspace="3" hspace="3&quot;">
+<br>
+</center>	
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+<!--ESTE CODIGO ES PARA INSERTAR VIDEOS-->
+<embed src="¿Qué es el cáncer.mp4" width="700" height="500">
+
+</div>
+
+
+
+</center>	
+</body>
+</html>
